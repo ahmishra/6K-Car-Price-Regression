@@ -11,5 +11,8 @@ it is a deep learnning software and conatians it's own brain and it's 1076 nuero
 5. **PANDAS**
 6. **KERAS**
 7. **Jupyter Notebook**
+8. Git
+
+To download you can use *Git* or Just download it directly the code directly from *Github*
 
 ## Enjoy!
