@@ -3,7 +3,7 @@
 it is a deep learnning software and conatians it's own brain and it's 1076 nuerons**
 <br><br>
 
-# Requirements
+## Requirements
 1. **Tensorflow**
 2. **CUDA**
 3. **SKLEARN**
