@@ -9,5 +9,6 @@ This a software can predict the price of a car in INR Lacks given it's features
 4. NUMPY
 5. PANDAS
 6. KERAS
+7. Jupyter Notebook
 
 ## Enjoy!
