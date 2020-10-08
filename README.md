@@ -1,5 +1,5 @@
 # 6K-Car-Price-Regression
-**This a software can predict the price of a car in INR Lacks given it's features
+**This a software can predict the price of a car in INR Lakhs given it's features
 it is a deep learnning software and conatians it's own brain and it's 1076 nuerons**
 <br><br>
 
